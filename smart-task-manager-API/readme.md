@@ -2,7 +2,7 @@
 
 Smart Task Manager API is a backend task management application built using Python. It allows users to create tasks, view all tasks, and update task completion status efficiently. The project demonstrates backend development concepts such as API routing, database integration, CRUD operations, and data persistence.
 
-## Objectives
+## Objectives  
 - Learn backend development using Python
 - Understand REST API architecture
 - Perform CRUD operations
