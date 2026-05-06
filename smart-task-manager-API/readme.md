@@ -23,7 +23,8 @@ Smart Task Manager API is a backend task management application built using Pyth
 ✅ View all tasks  
 ✅ Mark tasks as completed  
 ✅ Permanent database storage  
-✅ Interactive API documentation  
+✅ Interactive API documentation 
+
 
 ## Project Structure
 ```bash
